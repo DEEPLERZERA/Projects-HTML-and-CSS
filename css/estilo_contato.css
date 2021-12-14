@@ -1,0 +1,71 @@
+#titulo {
+    text-align: center;
+    font-family: "Comic Sans MS";
+    font-size: 2em;
+    color: rgba(179, 199, 0, 0.667)
+}
+
+#container {
+    margin: auto;
+    width: 25%;
+    padding: 20px;
+    border: 2px solid rgba(255, 0, 0, 0.667);
+    border-radius: 15px;
+    background-color: rgba(129, 129, 129, 0.667);
+}
+
+input {
+    border: 1px solid orangered;
+    background-color: rgba(209, 209, 209, 0.667);
+    border-radius: 8px;;
+    color: #fff
+}
+
+.botao {
+    border: 1px solid rgba(0, 255, 55, 0.667);
+    background-color: orangered;
+    cursor: pointer
+}
+
+label, legend {
+    font-family: verdana;
+    font-size: 0.8em;
+}
+
+legend {
+    font-weight: bold;
+}
+
+#txtSugestoes {
+    border: 1px solid orangered;
+    background-color: rgba(0, 0, 0, 0.667);
+    border-radius: 8px;
+    color: #fff
+}
+
+input:focus {
+    border: 1px solid orangered;
+    background-color: rgba(0, 0, 0, 0.667)
+}
+
+#txtSugestoes:focus {
+    background-color: blue;
+}
+
+#pagina_agradecimento {
+    background-color: rgba(0, 255, 34, 0.667);
+}
+
+#caixa_obrigado {
+    margin: auto;
+    width: 40%;
+    padding: 15px;
+    border: 2px solid rgba(202, 11, 11, 0.667);
+    border-radius: 20px;
+}
+
+#paragrafo {
+    text-align: center;
+    font-family: arial;
+    font-size: 1em;
+}

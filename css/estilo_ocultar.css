@@ -1,0 +1,22 @@
+body {
+    background-color: rgba(6, 245, 38, 0.76)
+}
+
+#titulo {
+    text-align: center;
+    font-family: "Comic Sans MS";
+    font-size: 18px
+}
+
+#titulo_escondido {
+    font-family: arial;
+    font-size: 18px;
+    /*visibility: hidden*/
+    display: none
+}
+
+#paragrafo {
+    font-family: verdana;
+    font-size: 12px;
+    font-weight: bold
+}

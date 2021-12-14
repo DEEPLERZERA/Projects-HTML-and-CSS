@@ -1,0 +1,61 @@
+body {
+    background-color: green;
+}
+
+#titulo {
+    font-family: "Comic Sans MS";
+    font-size: 1.5em; 
+    color: rgb(40, 2, 252);
+    text-align: center;
+}
+
+#frutas {
+   font-family: "Times New Roman";
+   font-size: 1.5em;
+   color:red;
+ 
+}
+
+#lista_frutas {
+    font-family: "Georgia";
+    font-size: 1em;
+    color: red;
+ 
+}
+
+#verduras {
+    font-family: "Times New Roman";
+    font-size: 1.5em;
+    color: yellow;
+    
+}
+
+#lista_verduras {
+    font-family: "Georgia";
+    font-size: 1em;
+    color: yellow;
+   
+}
+
+#legumes {
+    font-family: "Times New Roman";
+    font-size: 1.5em;
+    color: pink;
+    
+}
+
+#lista_legumes {
+    font-family: "Georgia";
+    font-size: 1em;
+    color: pink;
+    
+}
+
+#frase {
+    font-family: "Times New Roman";
+    font-size: 1.5em;
+    color:greenyellow;
+  
+}
+
+

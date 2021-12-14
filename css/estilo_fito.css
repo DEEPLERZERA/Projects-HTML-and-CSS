@@ -1,0 +1,37 @@
+body {
+    background-color: #44e03e
+}
+
+#titulo {
+    text-align: center;
+    font-family: "comics sams ms";
+    font-size: 28px;
+    color: #d60c0c
+}
+
+.subtitulo {
+    font-family: Verdana;
+    font-size: 22px;
+    color: rgba(12, 36, 250, 0.933)
+}
+
+.paragrafo_manha {
+    font-family: Cambria;
+    font-size: 20px;
+    color: rgb(253, 6, 171);
+    font-style: italic
+}
+
+.paragrafo_tarde {
+    font-family: Arial;
+    font-size: 22px;
+    color: rgba(250, 2, 2, 0.933);
+    font-weight: bold
+}
+
+.paragrafo_noite {
+    font-family: Verdana;
+    font-size: 18px;
+    color: rgba(255, 208, 0, 0.933);
+    text-decoration: underline
+}

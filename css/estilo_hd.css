@@ -1,0 +1,26 @@
+#titulo {
+    font-size: 1.5em;
+    color: rgb(0, 60, 255);
+    font-weight: bold;
+}
+
+#tabela {
+    grid-template-columns: auto auto auto auto;
+    grid-gap: 8px;
+    background-color: rgb(192, 192, 224);
+}
+
+#tabela > div {
+    border: 2px dotted rgb(0, 255, 200);
+      background-color: rgba(17, 84, 184, 0.667);
+      font-family: arial;
+      font-size: 1.5em;
+      font-weight: bold;
+      color: rgb(231, 151, 3)
+}
+
+#paragrafo { 
+    font-size: 1.5em;
+    color: rgba(110, 231, 116, 0.667);
+    font-weight: bold;
+}

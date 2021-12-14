@@ -1,0 +1,87 @@
+body {
+     background-color: #00c3ff;
+}
+
+#titulo {
+    font-family: "Comic Sans MS";
+    font-size: 1.5em; 
+    color: rgb(40, 2, 252);
+    text-align: center;
+}
+.subtitulo {
+    font-family: "arial";
+    font-size: 1em;
+    font-weight: bold; 
+    color: rgb(255, 208, 0);
+}
+
+table {
+    margin: auto;
+    border: #ff0000;
+    border-collapse: collapse;
+}
+
+
+td {
+    padding: 10px;
+    padding-right: 20px;
+}
+
+a {
+    text-decoration: none;
+    font-family: verdana;
+    font-size: 1em;
+    color: rgba(0, 0, 0, 0.667);
+    font-weight: bold
+}
+
+a:hover {
+     color: rgba(119, 114, 114, 0.815);
+     text-decoration: underline
+}
+
+li {
+    font-family: verdana;
+    font-size: 0.8em;
+    font-weight: bold;
+    color: #1f1212
+}
+
+#lista_america_sul {
+    list-style-type: decimal
+}
+
+#lista_america_central {
+    list-style-type: circle
+}
+
+#lista_america_norte {
+    list-style-type: upper-roman
+}
+
+
+#lista_africa {
+    list-style-type: square
+}
+
+
+#lista_oceania {
+    list-style-type: lower-alpha
+}
+
+
+#lista_asia {
+    list-style-type: disc
+}
+
+
+#lista_europa {
+    list-style-type: decimal
+}
+
+
+
+
+
+
+

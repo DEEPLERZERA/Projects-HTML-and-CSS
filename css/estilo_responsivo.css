@@ -1,0 +1,22 @@
+#titulo {
+    font-size: 1em;
+     text-align: center;
+     font-family: "Comic Sans MS";
+}
+
+#tabela {
+    display: grid;
+    margin: auto;
+    width: 75%;
+}
+
+#tabela > div {
+    text-align: center;
+    
+}
+
+#paragrafo {
+text-align: center;
+font-family: Verdana;
+width: 75%;
+}

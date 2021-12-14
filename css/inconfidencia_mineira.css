@@ -1,0 +1,110 @@
+body {
+    background-color: rgba(7, 185, 255, 0.867);
+}
+
+#titulo {
+    text-align: center;
+    font-family: "Courier New";
+    font-size: 2em
+}
+
+.subtitulo {
+    font-family: Verdana;
+    font-size: 22px;
+    color: rgba(32, 250, 12, 0.933)
+}
+
+.pcaminho_da_forca {
+    font-family: Cambria;
+    font-size: 20px;
+    color: rgb(153, 19, 19);
+    font-style: italic
+}
+
+.subtitulo2 {
+    font-family: Verdana;
+    font-size: 22px;
+    color: rgba(32, 250, 12, 0.933)
+}
+
+.ppedra_crisolita {
+    font-family: Cambria;
+    font-size: 20px;
+    color: rgb(112, 14, 14);
+    font-style: italic
+}
+
+.subtitulo3 {
+    font-family: Verdana;
+    font-size: 22px;
+    color: rgba(32, 250, 12, 0.933)
+}
+
+.pcenario {
+    font-family: Cambria;
+    font-size: 20px;
+    color: rgb(112, 14, 14);
+    font-style: italic
+}
+
+.subtitulo4 {
+    font-family: Verdana;
+    font-size: 22px;
+    color: rgba(32, 250, 12, 0.933)
+}
+
+.pafrica_dos_setecentos {
+    font-family: Cambria;
+    font-size: 20px;
+    color: rgb(112, 14, 14);
+    font-style: italic
+}
+
+.subtitulo5 {
+    font-family: Verdana;
+    font-size: 22px;
+    color: rgba(32, 250, 12, 0.933)
+}
+
+.poutro_maio_fatal {
+    font-family: Cambria;
+    font-size: 20px;
+    color: rgb(112, 14, 14);
+    font-style: italic
+}
+
+.subtitulo6 {
+    font-family: Verdana;
+    font-size: 22px;
+    color: rgba(32, 250, 12, 0.933)
+}
+
+.pjuliana_de_mascarenhas {
+    font-family: Cambria;
+    font-size: 20px;
+    color: rgb(112, 14, 14);
+    font-style: italic
+}
+.subtitulo7 {
+    font-family: Verdana;
+    font-size: 22px;
+    color: rgba(32, 250, 12, 0.933)
+}
+.pinconformada_marilia {
+    font-family: Cambria;
+    font-size: 20px;
+    color: rgb(112, 14, 14);
+    font-style: italic
+}
+.subtitulo8 {
+    font-family: Verdana;
+    font-size: 22px;
+    color: rgba(32, 250, 12, 0.933)
+}
+
+.pouro_fala {
+    font-family: Cambria;
+    font-size: 20px;
+    color: rgb(112, 14, 14);
+    font-style: italic
+}

@@ -1,0 +1,55 @@
+body {
+    background-color: rgba(43, 162, 7, 0.877)
+}
+
+#titulo {
+    text-align: center;
+    font-family: "Comic Sans MS";
+    font-size: 1.25em;
+    color: #ffff
+}
+
+#caixa {
+     margin: auto;
+     width: 60%;
+     border: 2px solid rgb(0, 26, 255);
+     padding-left: 20px;
+     padding-right: 10px;
+     padding-bottom: 15px;
+     border-radius: 20px;
+}
+
+p {
+    font-family: verdana;
+    font-size: 1em;
+    color: #ffff;
+    font-weight: bold;
+}
+
+#ultimo {
+    color: #f8b702
+}
+
+#penultimo {
+    color: #ff0000
+}
+
+#antepenultimo {
+    color: #00ccff
+}
+
+#anteantepenultimo {
+    color: #ff00eaff
+}
+
+#anteanteantepenultimo  {
+    color: rgb(25, 0, 255)
+}
+
+#paragrafo2 {
+    color: rgba(137, 253, 5, 0.973)
+}
+
+#paragrafoprimeiro {
+    color: #ca1515d2
+}

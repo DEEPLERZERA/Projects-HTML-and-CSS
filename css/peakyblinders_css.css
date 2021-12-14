@@ -1,0 +1,33 @@
+body {
+    background-image: url(https://media.tenor.com/images/40713624996be7d6051767b588d788e3/tenor.gif);
+    background-size: 100%;
+}
+
+.container {
+    border: 2px solid #0c62c5;
+    margin-bottom: 25px;
+}
+
+#palavra1 {
+    margin-top: 30px;
+    margin-left: 100px;
+    margin-bottom:30px;
+    margin-right: 100px;
+    padding-top: 30px;
+    padding-bottom:30px;
+   border: 3px solid #0212ff;
+   opacity: 0.6;
+}
+
+#palavra1:hover {
+    opacity:1;
+}
+
+.paragrafo {
+    text-align: center;
+    font-family: verdana;
+    font-size: 1em;
+    font-weight: bold;
+    color: rgb(30, 255, 0);
+    
+}

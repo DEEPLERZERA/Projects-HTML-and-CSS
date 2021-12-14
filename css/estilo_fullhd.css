@@ -1,0 +1,26 @@
+#titulo {
+    font-size: 1.75em;
+    color: rgb(162, 56, 204);
+    font-weight: bold;
+}
+
+#tabela {
+    grid-template-columns: auto auto auto auto auto;
+    grid-gap: 14px;
+    background-color: rgb(38, 192, 46);
+}
+
+#tabela > div {
+    border: 4px dotted rgb(47, 1, 255);
+      background-color: rgba(0, 204, 255, 0.667);
+      font-family: "Comic Sans MS";
+      font-size: 1.75em;
+      font-weight: bold;
+      color: rgb(229, 255, 0)
+}
+
+#paragrafo { 
+    font-size: 1.75em;
+    color: rgba(110, 231, 116, 0.667);
+    font-weight: bold;
+}

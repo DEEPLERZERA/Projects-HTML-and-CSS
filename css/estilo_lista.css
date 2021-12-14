@@ -1,0 +1,27 @@
+#titulo {
+    text-align: center;
+    font-family: "Courier New";
+    font-size: 2em
+}
+
+ol, ul {
+    font-family: Verdana;
+    font-size: 1.4em;
+    }
+
+    #alfanumerico {
+        list-style-type: lower-alpha
+                                     
+    }
+
+     #algarismo_romano {             
+        list-style-type: upper-roman
+    }
+
+    #quadrado {
+        list-style-type: square
+    }
+
+    #circulo {
+        list-style-type: circle
+    }
